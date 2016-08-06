@@ -226,7 +226,7 @@ function create_config( )
     "groupmanager",
     "on-off",
     "version",
-    "solid"
+    "mehti"
     },
     sudo_users = {157059515,136701650,tonumber(our_id)},--Sudo users
     moderation = {data = 'data/moderation.json'},
